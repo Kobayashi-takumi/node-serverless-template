@@ -1,0 +1,7 @@
+serverless.ts
+jest.config.ts
+node_modules/*
+coverage/*
+.dynamodb/*
+.esbuild/*
+src/libs/lambda.ts
